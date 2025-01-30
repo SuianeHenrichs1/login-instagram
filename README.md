@@ -54,16 +54,6 @@ Este projeto consiste em um **clone da tela de login do Instagram**, focado no u
 
 ---
 
-## 🌍 Acesse o Projeto
-
-Você pode acessar o projeto online clicando no link abaixo:
-
-👉 [Login Instagram](https://suianehenrichs1.github.io/login-instagram/)
-&nbsp;  
-&nbsp;  
-
----
-
 # ✨ Autora
 
 | [<img loading="lazy" src="https://github.com/SuianeHenrichs1.png" width=115><br><sub>Suiane Henrichs</sub>](https://github.com/SuianeHenrichs1) |
